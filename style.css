@@ -14,3 +14,7 @@ body {
     font-size: 50px;
     font-weight: 500;
 }
+
+.navbar a {
+    color: black;
+}
