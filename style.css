@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'ApfelGrotezk';
+    src: 
+        url(fonts/ApfelGrotezk-Regular.otf) format('otf')
+        url(fonts/ApfelGrotezk-Fett.otf) format('otf')
+        url(fonts/ApfelGrotezk-Brukt.otf) format('otf')
+        url(fonts/ApfelGrotezk-Mittel.otf) format('otf')
+        url(fonts/ApfelGrotezk-Satt.otf) format('otf')
+}
+
+body {
+    font-family: 'ApfelGrotezk', 'Hevetica', sans-serif;
+    font-size: 25px;
+}
