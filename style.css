@@ -17,4 +17,23 @@ body {
 
 .navbar a {
     color: black;
+    margin: py-14 sm:py-16 2xl:py-20
+}
+
+.projects {
+    text-align: left;
+    margin: left;
+    height: auto;
+} 
+
+.about {
+    text-align: center;
+    margin: center;
+    height: auto;
+}
+
+.contact {
+    text-align: right;
+    margin: right;
+    height: auto;
 }
