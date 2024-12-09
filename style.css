@@ -17,23 +17,9 @@ body {
 
 .navbar a {
     color: black;
-    margin: auto;
-}
-
-.projects {
-    text-align: left;
-    margin: left;
-    height: auto;
-} 
-
-.about {
     text-align: center;
-    margin: center;
-    height: auto;
 }
 
-.contact {
-    text-align: right;
-    margin: right;
-    height: auto;
-}
+.back a {
+    color: black;
+}    
