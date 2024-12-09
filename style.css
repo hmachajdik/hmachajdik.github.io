@@ -17,7 +17,7 @@ body {
 
 .navbar a {
     color: black;
-    margin: py-14 sm:py-16 2xl:py-20
+    margin: auto;
 }
 
 .projects {
